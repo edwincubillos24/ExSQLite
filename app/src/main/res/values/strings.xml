@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Notas con SQLite</string>
+    <string name="text1">Introduzca el nombre del alumno a buscar</string>
+
+    <string name="sBuscar">Buscar</string>
+
+    <string name="Fragmento_b">Fragment B</string>
+    <string name="Fragmento_c">Fragment C</string>
+    <string name="sHint">Ingrese un nombre</string>
+    <string name="sNombre">Nombre:</string>
+    <string name="sInsertar">Ingrese el registro a insertar en la base de datos</string>
+    <string name="sNota1">Nota 1:</string>
+    <string name="sNota2">Nota 2:</string>
+    <string name="sNota3">Nota 3:</string>
+    <string name="sBotonInsertar">Insertar</string>
+    <string name="sDelText">Ingrese el nombre del alumno a borrar</string>
+    <string name="sDelHint">Nombre</string>
+    <string name="sDelBorrar">Borrar</string>
+    <string name="sSobreescribir">Ingrese el nombre del alumno a modificar</string>
+    <string name="sBotonSobreescribir">Modificar</string>
+</resources>
